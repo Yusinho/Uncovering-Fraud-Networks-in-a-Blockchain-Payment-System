@@ -437,7 +437,7 @@ print(f"Structurally suspicious unlabelled nodes: {len(suspicious_df)}")  # 327
 
 <img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/e1065a12-ce6f-4f56-96e5-b5edf5147fa1" />
 
-The interactive dashboard was built as a custom HTML canvas application with a dark-mode financial compliance aesthetic-  https://yusinho.github.io/Elliptic-Fraud-Dashboard/
+The interactive dashboard was built as a custom HTML canvas application with a dark-mode financial compliance aesthetic; Link to the dashboard-  https://yusinho.github.io/Elliptic-Fraud-Dashboard/
 ### KPI Cards (Top Row)
 
 | Metric | Value | Colour |
