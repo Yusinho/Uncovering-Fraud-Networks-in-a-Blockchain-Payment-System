@@ -30,6 +30,7 @@
 - [Project Structure](#project-structure)
 - [How to Reproduce This Analysis](#how-to-reproduce-this-analysis)
 - [References](#references)
+- [Author](#-author)
 
 ---
 
@@ -656,7 +657,11 @@ open dashboard/elliptic_fraud_dashboard.html
 
 Full report link- https://drive.google.com/drive/folders/1-fEWpgkY6hgILt3zQDeVvJGwrL1zaCwe?usp=sharing
 ---
+## 👤 Author
 
+*(Yusuf Shotunde, LinkedIn: www.linkedin.com/in/yusuf-shotunde / GitHub: https://github.com/Yusinho/ / CV: https://github.com/Yusinho/my-portfolio/blob/main/Yusuf_Lanre_Shotunde_CV.pdf )*
+
+---
 *Built by a data analyst exploring the intersection of graph theory, blockchain forensics, and financial crime detection.*
 *Dataset credit: Elliptic & MIT Media Lab Digital Currency Initiative.*
 
