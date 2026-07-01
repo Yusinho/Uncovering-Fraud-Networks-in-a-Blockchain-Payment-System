@@ -659,7 +659,7 @@ Full report link- https://drive.google.com/drive/folders/1-fEWpgkY6hgILt3zQDeVvJ
 ---
 ## 👤 Author
 
-*(Yusuf Shotunde, LinkedIn: www.linkedin.com/in/yusuf-shotunde / GitHub: https://github.com/Yusinho/ / CV: https://github.com/Yusinho/my-portfolio/blob/main/Yusuf_Lanre_Shotunde_CV.pdf )*
+*(Yusuf Shotunde, LinkedIn: www.linkedin.com/in/yusuf-shotunde / GitHub: https://github.com/Yusinho / CV: https://github.com/Yusinho/my-portfolio/blob/main/Yusuf_Lanre_Shotunde_CV.pdf )*
 
 ---
 *Built by a data analyst exploring the intersection of graph theory, blockchain forensics, and financial crime detection.*
